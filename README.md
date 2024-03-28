@@ -1,7 +1,7 @@
-Project Ζ εξαμήνου στο μάθημα της "Διαχείρισης Υπολογιστικού Νέφους". 
+7th semester project in the "Cloud Computing Management" course.
 
-Εκφώνηση εργασίας στο assignment.pdf
+Assignment in `assignment.pdf` file
 
-Προγραμματιστικό κομμάτι στο cloud_comp.py
+Code in `cloud_comp.py`
 
-Report διαθέσιμο στο cloud_computing_report.pdf
+Report available at `cloud_computing_report.pdf`
